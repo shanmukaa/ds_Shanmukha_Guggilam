@@ -40,6 +40,7 @@ The goal is to understand how **profitability, risk exposure, and leverage behav
 
 ## Repository Structure
 ds_Shanmukha_guggilam/
+
 ├── Trader_Behavior_Insights.ipynb
 
 ├── sentiment_vs_trading.ipynb
